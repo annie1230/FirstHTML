@@ -15,7 +15,7 @@ a:link, a:visited{
   padding: 10px;
   display: inline-block;
 }
-a: hover, a:active{
+a:hover, a:active{
   background-color:pink; 
   color:pink;
 }
