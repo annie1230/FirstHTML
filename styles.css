@@ -12,4 +12,4 @@ a:link, a:visited{
   border: pink;
   padding:10px;
   display: inline-block;}
-a: hover, a:active{background-color:black; color:white;}
+a: hover, a:active{background-color:pink; color:pink;}
