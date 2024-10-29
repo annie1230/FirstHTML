@@ -10,12 +10,12 @@ table, th, td, tr{
 
 a:link, a:visited{
   background-color: Pink;
-  color: blue;
+  color: purple;
   border: pink;
   padding: 10px;
   display: inline-block;
 }
 a:hover, a:active{
-  background-color:pink; 
-  color:blue;
+  background-color:purple; 
+  color:pink;
 }
