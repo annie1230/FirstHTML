@@ -12,13 +12,13 @@ table, th, td, tr{
 }
 
 a:link, a:visited{
-  background-color: Pink;
-  color: purple;
-  border: pink;
+  background-color: #EBEFBF;
+  color: #23231A;
+  border: orange;
   padding: 10px;
   display: inline-block;
 }
 a:hover, a:active{
-  background-color:purple; 
-  color:pink;
+  background-color:#CDC6A5; 
+  color:#FFEAD0;
 }
