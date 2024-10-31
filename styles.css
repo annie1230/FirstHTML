@@ -2,6 +2,7 @@ body{
   background-color: white;
   color: red;
   text-align: center;
+  font-size: 100px;
 }
 
 table, th, td, tr{
