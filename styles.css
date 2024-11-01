@@ -4,7 +4,8 @@ body{
   text-align: center;
   font-size: 75px;
 }
-.button{font-size: 75px}
+.button{font-size: 50px}
+
 table, th, td, tr{
   border: 1px solid white;
   margin: -5;
