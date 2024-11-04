@@ -5,7 +5,9 @@ body{
   font-size: 75px;
 }
 .button{font-size: 50px}
-h1{ font-size: 50x}
+
+h1{ font-size: 50px}
+
 table, th, tr, td{
   border: 1px solid white;
   margin: -5;
