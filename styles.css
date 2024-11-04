@@ -9,8 +9,10 @@ body{
 p{font-size: 15px}
 h1{font-size: 50px;
   text-align:left;}
-h3{font-size:50px}
-h5{font-size:35}
+h3{font-size:50px;
+  text-align:left}
+h5{font-size:35;
+  text-align:left}
 table, th, tr, td{
   border: 1px solid white;
   margin: -5;
