@@ -20,7 +20,7 @@ table, th, tr, td{
   border-collapse: collapse;}
 a:link, a:visited{
   background-color: #EBEFBF;
-  color: white;
+  color: #3E5622;
   border: orange;
   padding: 10px;
   display: inline-block;
