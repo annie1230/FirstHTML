@@ -20,11 +20,10 @@ table, th, tr, td{
   border-collapse: collapse;
 }
 .boxs{
-  background-color:orange;
-  border: 1px solid white;
+  background-color:#BA5C12;
+  border: 1px black;
   margin: -5;
-  padding: 0;
-  border-collapse: collapse;}
+  padding: 0;}
 
 a:link, a:visited{
   background-color: #BA5C12;
