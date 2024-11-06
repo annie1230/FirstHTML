@@ -1,7 +1,7 @@
 body{
   background-image: linear-gradient(black, #BA5C12);
   text-align: center;
-  font-size: 75px;
+  font-size: 50px;
 }
 .button{font-size: 50px}
 
@@ -25,6 +25,7 @@ table, th, tr, td{
   margin: -5;
   padding: 0;
   border-collapse: collapse;}
+
 a:link, a:visited{
   background-color: #BA5C12;
   color: #252323;
