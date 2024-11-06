@@ -14,7 +14,7 @@ h5{font-size:15;
   text-align:left; 
   font-color:#95B46A;}
 table, th, tr, td{
-  border: 1px solid white;
+  border: 1px black;
   margin: -5;
   padding: 0;
   border-collapse: collapse;
