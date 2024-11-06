@@ -6,12 +6,12 @@ body{
 }
 .button{font-size: 50px}
 
-p{font-size: 20px; margin:-10; padding:-10;font-color:#D3F6DB;}
+p{font-size: 10px; margin:-10; padding:-10;font-color:#D3F6DB;}
 h1{font-size: 50px;
   text-align:left;}
-h3{font-size:50px;
+h3{font-size:35px;
   text-align:left}
-h5{font-size:25;
+h5{font-size:15;
   text-align:left; 
   font-color:#95B46A;}
 table, th, tr, td{
