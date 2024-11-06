@@ -26,13 +26,14 @@ table, th, tr, td{
   padding: 0;
   border-collapse: collapse;}
 a:link, a:visited{
-  background-color: #EBEFBF;
-  color: #3E5622;
+  background-color: #BA5C12;
+  color: #252323;
   border: orange;
+  border-weight: 50px;
   padding: 10px;
   display: inline-block;
 }
 a:hover, a:active{
-  background-color:#CDC6A5; 
-  color:#FFEAD0;
+  background-color:#DBAD6A; 
+  color:#F18701;
 }
