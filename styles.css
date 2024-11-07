@@ -17,7 +17,7 @@ table, th, tr, td{
   border-collapse: collapse;}
 
 .button {
-  background-color: #04AA6D; /* Green */
+  background-color: #DA7635;
   border: none;
   color: white;
   padding: 16px 32px;
@@ -32,13 +32,13 @@ table, th, tr, td{
 }
 
 .button1 {
-  background-color: white; 
+  background-color: #DA7635; 
   color: black; 
-  border: 2px solid #04AA6D;
+  border: 2px solid #DA7635;
 }
 
 .button1:hover {
-  background-color: #04AA6D;
+  background-color: black;
   color: white;
 }
 
