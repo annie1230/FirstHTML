@@ -1,3 +1,4 @@
+/*
 body{
   background-image: linear-gradient(black, #BA5C12);
   text-align: center;
@@ -15,7 +16,7 @@ h5{font-size:15;
   text-align:left; 
   font-color:#95B46A;
   }
-/*
+
 table, th, tr, td{
   border: 5px black;
   margin: 0;
