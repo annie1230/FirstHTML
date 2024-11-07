@@ -29,6 +29,7 @@ table, th, tr, td{
   transition-duration: 0.4s;
   cursor: pointer;
   font-size: 50px;
+  width: 100px;
 }
 
 .button1 {
