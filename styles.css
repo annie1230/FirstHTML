@@ -16,10 +16,10 @@ table, th, tr, td{
   padding: 0;
   border-collapse: collapse;}
 
-a:link{text-decoration:none;
+a:link, a:visited{text-decoration:none;
  color:black;}
 
-a:hover,a:visited{color:white;
+a:hover,a:active{color:white;
        text-decoration:none;}
 
 .button {
