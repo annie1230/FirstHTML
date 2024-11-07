@@ -15,8 +15,12 @@ table, th, tr, td{
   margin: -5;
   padding: 0;
   border-collapse: collapse;}
-a{text-decoration:none;
- font-color:none}
+a:link{text-decoration:none;
+ font-color:black}
+
+a:hover{font-color:white;
+       text-decoration:none;}
+
 .button {
   background-color: #DA7635;
   border: none;
