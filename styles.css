@@ -17,9 +17,9 @@ table, th, tr, td{
   border-collapse: collapse;}
 
 a:link{text-decoration:none;
- font-color:black;}
+ color:black;}
 
-a:hover,a:visited{font-color:white;
+a:hover,a:visited{color:white;
        text-decoration:none;}
 
 .button {
