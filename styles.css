@@ -15,6 +15,7 @@ table, th, tr, td{
   margin: -5;
   padding: 0;
   border-collapse: collapse;}
+.test{ border: 2px black; border-collapse: none;}
 
 a:link{text-decoration:none;
  color:black;}
