@@ -1,10 +1,7 @@
 body{
   background-image: linear-gradient(black, #BA5C12);
   text-align: center;
-  font-size: 50px;
-}
-.button{font-size: 25px}
-
+  font-size: 50px;}
 p{font-size: 15px; margin:-10; padding:-10;font-color:#D3F6DB;}
 h1{font-size: 50px;
   text-align:left;}
