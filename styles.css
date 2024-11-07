@@ -18,7 +18,7 @@ table, th, tr, td{
 a:link{text-decoration:none;
  font-color:black}
 
-a:hover{font-color:white;
+a:hover,a:visited{font-color:white;
        text-decoration:none;}
 
 .button {
