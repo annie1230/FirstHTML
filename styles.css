@@ -20,7 +20,7 @@ h5{font-size:15;
   font-color:#95B46A;
   }
 
-table, td{border: black;}
+table, th,tr{border: black;}
 
 a:link{text-decoration:none;
  color:black;}
