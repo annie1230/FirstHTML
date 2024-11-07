@@ -15,7 +15,7 @@ table, th, tr, td{
   margin: -5;
   padding: 0;
   border-collapse: collapse;}
-
+a{text-decoration:none}
 .button {
   background-color: #DA7635;
   border: none;
