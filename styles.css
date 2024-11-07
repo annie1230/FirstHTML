@@ -16,8 +16,11 @@ table, th, tr, td{
   padding: 0;
   border-collapse: collapse;}
 
-a:link, a:visited{text-decoration:none;
+a:link{text-decoration:none;
  color:black;}
+
+a:visited{text-decoration:none;
+ color:white;}
 
 a:hover,a:active{color:white;
        text-decoration:none;}
