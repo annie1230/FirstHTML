@@ -16,6 +16,11 @@ h5{font-size:15;
   font-color:#95B46A;
   }
 
+table, th, tr, td{
+  border: 5px black;
+  margin: 0;
+  padding: 0;
+}
 
 a:link{text-decoration:none;
  color:black;}
