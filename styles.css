@@ -15,7 +15,7 @@ h5{font-size:15;
   text-align:left; 
   font-color:#95B46A;
   }
-
+/*
 table, th, tr, td{
   border: 5px black;
   margin: 0;
@@ -56,6 +56,8 @@ a:hover,a:active{color:white;
 
 .button1:hover {
   background-color: black;
+
+  */
   color: white;
 }
 
