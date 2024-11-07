@@ -41,7 +41,7 @@ a:hover,a:visited{font-color:white;
 .button1 {
   background-color: #DA7635; 
   color: black; 
-  border: 2px solid #DA7635;
+  border: 2px solid black;
 }
 
 .button1:hover {
