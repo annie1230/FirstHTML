@@ -55,11 +55,9 @@ a:hover,a:active{color:white;
 }
 
 .button1:hover {
-  background-color: black;
-
-  
-  color: white;
+  background-color: black; color: white;
 }
+.test{background-color:white}
 
 
 
